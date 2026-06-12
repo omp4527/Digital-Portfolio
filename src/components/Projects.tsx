@@ -53,7 +53,7 @@ const projects = [
     image:
       "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=600",
     featured: true,
-    github: "https://github.com/omp4527",
+    github: "https://github.com/omp4527/Muncipal-Greviance-Redressal",
   },
   {
     title: "CarbonSnap",
