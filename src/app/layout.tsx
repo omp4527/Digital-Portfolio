@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Om Umesh Patil | Digital Portfolio",
+  title: "Om Patil | Digital Portfolio",
   description: "Computer Engineering Student at MITAOE. Building intelligent systems at the intersection of machine learning, backend engineering, and cybersecurity.",
 };
 
