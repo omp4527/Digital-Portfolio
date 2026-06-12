@@ -1,4 +1,4 @@
-# Om Umesh Patil - Digital Portfolio
+# Om Patil - Digital Portfolio
 
 A modern, full-stack developer portfolio website showcasing computer engineering projects, core proficiencies, work experience, and a secure contact portal.
 
